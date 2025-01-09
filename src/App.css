@@ -1,0 +1,57 @@
+html {
+  padding: 0;
+  margin: 30px;
+  background-color: #e4ebff;
+}
+
+* {
+  font-size: 20px;
+}
+
+.add-button {
+  width: 48px;
+  height: 48px;
+  border: 2px solid #557eba;
+  font-size: 24px;
+  text-align: center;
+  color: white;
+  background-color: #557eba;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  transition: border-radius 0.3s ease;
+}
+
+.add-button:hover {
+  background-color: #7eba55;
+  border-radius: 3px;
+  border-color: #7eba55;
+}
+
+.priority-sort {
+  width: 140px;
+  border: 0;
+  border-radius: 20px;
+  font-family: inherit;
+  font-weight: inherit;
+  cursor: pointer;
+  transition: background-color 0.4s ease-in-out;
+}
+
+.priority-sort:hover {
+  background-color: #7dba5541;
+}
+
+.deadline-sort {
+  width: 140px;
+  border: 0;
+  border-radius: 20px;
+  font-family: inherit;
+  font-weight: inherit;
+  cursor: pointer;
+  transition: background-color 0.4s ease-in-out;
+}
+
+.deadline-sort:hover {
+  background-color: #7dba5541;
+}
