@@ -46,7 +46,7 @@ function App() {
           Toodoo
         </h1>
         <h1 style={{ fontWeight: "800", color: "#7EBA55", fontSize: "40px" }}>
-          App
+          App asdasd
         </h1>
       </div>
 
