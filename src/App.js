@@ -43,7 +43,7 @@ function App() {
     <div className="App">
       <div style={{ display: "flex", borderBottom: "2px solid #7EBA55" }}>
         <h1 style={{ fontWeight: "800", color: "#557eba", fontSize: "40px" }}>
-          Toodoo
+          Toodooo
         </h1>
         <h1 style={{ fontWeight: "800", color: "#7EBA55", fontSize: "40px" }}>
           App
